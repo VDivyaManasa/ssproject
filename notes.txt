@@ -1,0 +1,4 @@
+hi , i m practing git commands
+
+first command. git status 
+second command git remote -v
